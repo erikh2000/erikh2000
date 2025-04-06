@@ -6,4 +6,6 @@ I'm Erik Hermansen. I've been creating software professionally since 1992. Some 
 * [A bunch of Medium articles](https://medium.com/@ErikH2000) on software engineering, work life, creativity, ethics, and running.
 * A million multimedia projects featuring animation, motion graphics, voice, and music.
 
+My current focus is on local-LLM web apps. Myself and others are creating open source tools, mentoring opportunities, and a portal for them at https://decentapps.net.
+
 I am happiest when I create, and I enjoy the company of people that share this spirit.
